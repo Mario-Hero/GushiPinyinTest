@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/pre">
+        <file>files/logo.jpg</file>
+        <file>files/logo2.jpg</file>
+        <file>files/logo.ico</file>
+        <file>files/pinyin.txt</file>
+    </qresource>
+</RCC>

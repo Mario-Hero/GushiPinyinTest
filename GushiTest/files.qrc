@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/pre">
+        <file>files/logo.jpg</file>
+        <file>files/logo2.jpg</file>
+        <file>files/logo.ico</file>
+        <file>files/7a.txt</file>
+        <file>files/7b.txt</file>
+        <file>files/8a.txt</file>
+        <file>files/8b.txt</file>
+        <file>files/9a.txt</file>
+        <file>files/9b.txt</file>
+        <file>files/mj110ans.txt</file>
+        <file>files/mj110q.txt</file>
+    </qresource>
+</RCC>
