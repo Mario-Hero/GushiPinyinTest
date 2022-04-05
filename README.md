@@ -8,13 +8,17 @@
 
 ## 软件截图
 
-<img src="C:\Users\Mario\Documents\Projects\Qt\collect\Screenshot\gushi.jpg" alt="gushi" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Mario-Hero/GushiPinyinTest/main/Screenshot/gushi.jpg" alt="gushi" style="zoom:50%;" />
 
-<img src="C:\Users\Mario\Documents\Projects\Qt\collect\Screenshot\pinyin.jpg" alt="pinyin" style="zoom:50%;" />
+<img src="https://github.com/Mario-Hero/GushiPinyinTest/blob/main/Screenshot/pinyin.jpg" alt="pinyin" style="zoom:50%;" />
 
 ## 下载地址
 
+Windows 64位：
 
+[古诗测试](https://github.com/Mario-Hero/GushiPinyinTest/releases/download/Main/Gushi.exe)
+
+[拼音测试](https://github.com/Mario-Hero/GushiPinyinTest/releases/download/Main/Pinyin.exe)
 
 ## 使用说明
 
