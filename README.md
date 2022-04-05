@@ -8,9 +8,9 @@
 
 ## 软件截图
 
-<img src="https://raw.githubusercontent.com/Mario-Hero/GushiPinyinTest/main/Screenshot/gushi.jpg" alt="gushi" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Mario-Hero/GushiPinyinTest/main/Screenshot/gushi.jpg" alt="gushi" style="zoom:33%;" />
 
-<img src="https://github.com/Mario-Hero/GushiPinyinTest/blob/main/Screenshot/pinyin.jpg" alt="pinyin" style="zoom:50%;" />
+<img src="https://github.com/Mario-Hero/GushiPinyinTest/blob/main/Screenshot/pinyin.jpg" alt="pinyin" style="zoom:33%;" />
 
 ## 下载地址
 
